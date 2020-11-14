@@ -74,7 +74,7 @@ pygame.init()
 
 screen = pygame.display.set_mode((776, 750))
 clock = pygame.time.Clock()
-game_font = pygame.font.Font('FlappyBirdRegular-9Pq0.ttf', 50)
+game_font = pygame.font.Font('font/FlappyBirdRegular-9Pq0.ttf', 50)
 
 # Game Variables
 gravity = 0.05
